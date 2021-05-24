@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with building apps using flutter
 - 💬 Ask me about any flutter internships I maybe intrested in
 - 📫 How to reach me: heloisereinaviegas@gmail.com
-- 😄 Pronouns: She
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Hers
+- ⚡ Fun fact: I enjoy ballroom 

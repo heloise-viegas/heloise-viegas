@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on implementing Provider Package
+- 🔭 I’m currently working on implementing ML kit
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on beginner friendly flutter projects
 - 🤔 I’m looking for help with building responsive apps 

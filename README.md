@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on implementing ML kit
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on Clean Ui designs 
+- 🌱 I’m currently learning Flutter from Raywenderlich Flutter Aprrentice
 - 👯 I’m looking to collaborate on beginner friendly flutter projects
 - 🤔 I’m looking for help with building responsive apps 
 - 💬 Ask me about any flutter internships I maybe intrested in

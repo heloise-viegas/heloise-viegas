@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HELOISE VIEGAS</h1>
 <p align="left"> <a href="https://twitter.com/heloise_viegas" target="blank"><img src="https://img.shields.io/twitter/follow/heloise_viegas?logo=twitter&style=for-the-badge" alt="heloise_viegas" /></a> </p>
 
-- 🔭 I’m currently working on **GO**
+- 🔭 I’m currently working on **Vagrant Automation**
 
 - 🌱 I’m currently learning **DEVOPS BOOTCAMP / DOCKER / GO**
 

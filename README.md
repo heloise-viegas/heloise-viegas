@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Vagrant Automation**
 
-- 🌱 I’m currently learning **DEVOPS BOOTCAMP / DOCKER / GO**
+- 🌱 I’m currently learning **GITHUB ACTIONS / DOCKER / GO**
 
 - 👯 I’m looking to collaborate on **DEVOPS**
 

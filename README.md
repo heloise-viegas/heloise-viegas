@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm HELOISE VIEGAS</h1>
 <p align="left"> <a href="https://twitter.com/heloise_viegas" target="blank"><img src="https://img.shields.io/twitter/follow/heloise_viegas?logo=twitter&style=for-the-badge" alt="heloise_viegas" /></a> </p>
 
-- 🔭 I’m currently working on **Vagrant Automation**
+- 🔭 I’m currently working on **EKS deployments**
 
-- 🌱 I’m currently learning **GITHUB ACTIONS / DOCKER / GO**
+- 🌱 I’m currently learning **Jenkins CICD with Kubernetes**
 
 - 👯 I’m looking to collaborate on **DEVOPS**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://heloise.hashnode.dev/](https://heloise.hashnode.dev/)
 
-- 📫 How to reach me **heloisereinaviegas@gmail.com**
+- 📫 How to reach me **heloiseviegas03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

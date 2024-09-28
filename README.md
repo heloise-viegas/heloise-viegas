@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm a developer turned DevOps enthusiast, exploring the magic of Docker, Kubernetes, AWS, and Jenkins. <br>From migrating to the cloud (EKS) to crafting Jenkins pipelines and setting up Argo CD, my journey has been filled with exciting projects. <br>Currently, I'm weaving Prometheus and Grafana spells for top-notch service monitoring.<br><br>My Tech Philosophy:<br>In this ever-changing tech world, curiosity is king. I thrive on embracing new challenges to grow and improve. Each challenge is a chance to level up in the tech game, making it even more fascinating. Join me on this journey of constant tech evolution!
+Hey there! I'm a developer turned DevOps enthusiast, exploring the magic of Docker, Kubernetes, AWS, and Jenkins. <br>From migrating to the cloud (EKS) to crafting Jenkins pipelines and setting up Argo CD, my journey has been filled with exciting projects. <br><br><br>My Tech Philosophy:<br>In this ever-changing tech world, curiosity is king. I thrive on embracing new challenges to grow and improve. Each challenge is a chance to level up in the tech game, making it even more fascinating. Join me on this journey of constant tech evolution!
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ Hey there! I'm a developer turned DevOps enthusiast, exploring the magic of Dock
 ![](https://github-readme-stats.vercel.app/api?username=heloise-viegas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=heloise-viegas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heloise-viegas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=heloise-viegas&icon=5&color=5)](https://visitcount.itsvg.in)

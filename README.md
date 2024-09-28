@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm a developer turned DevOps enthusiast, exploring the magic of Docker, Kubernetes, AWS, and Jenkins. <br>From migrating applications to the cloud (AWS/Azure) to crafting Jenkins pipelines and setting up Argo CD, my journey has been filled with exciting projects. <br><br><br>My Tech Philosophy:<br>In this ever-changing tech world, curiosity is king. I thrive on embracing new challenges to grow and improve. Each challenge is a chance to level up in the tech game, making it even more fascinating. Join me on this journey of constant tech evolution!
+Hey there! I'm a developer turned DevOps enthusiast, exploring the magic of Docker, Kubernetes, AWS, and Jenkins. <br>From migrating applications to the cloud (AWS/Azure) to crafting Jenkins/AzureDevOps pipelines and setting up Argo CD, my journey has been filled with exciting projects. <br><br><br>My Tech Philosophy:<br>In this ever-changing tech world, curiosity is king. I thrive on embracing new challenges to grow and improve. Each challenge is a chance to level up in the tech game, making it even more fascinating. Join me on this journey of constant tech evolution!
 
 
 ## 🌐 Socials:

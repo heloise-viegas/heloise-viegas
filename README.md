@@ -37,9 +37,9 @@ I work across the full lifecycle — from provisioning to deployment pipelines t
 | Repo | What it is |
 |------|-----------|
 | [Helm release via CICD](https://github.com/heloise-viegas/kuberelease-platform.git) | Package and release deployments accross environments
-| [AWS-Networking-Fundamentals]([https://github.com/heloise-viegas/AWS-Cost-Optimization](https://github.com/heloise-viegas/Traffic-Flow-Explained)) | AWS networking concepts |
-| [Terraform](https://github.com/heloise-viegas/Terraform) | Modular Terraform for AWS — EKS, VPC, ALB, S3, CDN |
-| [Terraform-Resource-From-Module](https://github.com/heloise-viegas/Terraform-Resource-From-Module) | Reusable Terraform module pattern with resource composition |
+| [AWS-Networking-Fundamentals](https://github.com/heloise-viegas/Traffic-Flow-Explained) | AWS networking concepts |
+| [Terraform](https://github.com/heloise-viegas/Terraform_AWS.git) | Modular Terraform for AWS — EKS, VPC, ALB, S3, CDN |
+| [Scripting](https://github.com/heloise-viegas/bash_scripts.git) | Daily used Bash Scripts |
 
 ---
 

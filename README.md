@@ -43,6 +43,9 @@ I work across the full lifecycle — from provisioning to deployment pipelines t
 
 ---
 
+[![Blog](https://heloise.hashnode.dev/)]
+
+---
 ## Get in touch
 
 I'm open to remote DevOps and Platform Engineering roles with EU and US teams.

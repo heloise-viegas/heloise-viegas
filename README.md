@@ -43,8 +43,7 @@ I work across the full lifecycle — from provisioning to deployment pipelines t
 
 ---
 
-[![Blog](https://heloise.hashnode.dev/)]
-
+[![Hashnode](https://img.shields.io/badge/Hashnode-The%20Platform%20Journal-2962FF?style=flat&logo=hashnode&logoColor=white)](https://heloise.hashnode.dev/)
 ---
 ## Get in touch
 
